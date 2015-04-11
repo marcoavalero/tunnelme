@@ -1,7 +1,7 @@
 #!/bin/bash
 #title           :tunnelme.sh
 #description     :This script creates a SSH tunnels
-#author      :Marco Valero (marcoavalero@gmail.com)
+#author          :Marco Valero (marcoavalero@gmail.com)
 #date            :20150411
 #version         :0.1    
 
